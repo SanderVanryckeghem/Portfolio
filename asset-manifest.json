@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.e30308c4.css",
-    "main.js": "/Portfolio/static/js/main.23ec3893.js",
+    "main.js": "/Portfolio/static/js/main.aa6699d6.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/Sander-logos.png": "/Portfolio/static/media/Sander-logos.4e0d2eddb03c4e01742c.png",
     "static/media/helvetica-neu.ttf": "/Portfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
@@ -10,11 +10,11 @@
     "static/media/CoolveticaRg-Regular.woff2": "/Portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/Portfolio/index.html",
     "main.e30308c4.css.map": "/Portfolio/static/css/main.e30308c4.css.map",
-    "main.23ec3893.js.map": "/Portfolio/static/js/main.23ec3893.js.map",
+    "main.aa6699d6.js.map": "/Portfolio/static/js/main.aa6699d6.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e30308c4.css",
-    "static/js/main.23ec3893.js"
+    "static/js/main.aa6699d6.js"
   ]
 }

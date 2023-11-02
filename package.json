@@ -1,24 +1,40 @@
 {
-  "homepage": "https://SanderVanryckeghem.github.io/Portfolio",
+  "homepage": "https//Sandervanryckeghem.github.io/Portfolio",
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@testing-library/jest-dom": "^5.17.0",
-    "@testing-library/react": "^13.4.0",
-    "@testing-library/user-event": "^13.5.0",
+    "@emailjs/browser": "^3.11.0",
+    "@fortawesome/free-brands-svg-icons": "^6.4.2",
+    "@fortawesome/free-solid-svg-icons": "^6.4.2",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^13.0.0",
+    "@testing-library/user-event": "^13.2.1",
+    "@types/jest": "^27.0.1",
+    "@types/node": "^16.7.13",
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0",
+    "animate.css": "^4.1.1",
+    "gsap": "^3.12.2",
+    "loaders.css": "^0.1.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-leaflet": "^4.2.1",
+    "react-loaders": "^3.0.1",
+    "react-router-dom": "^6.18.0",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "sass": "^1.69.5",
+    "typescript": "^4.4.2",
+    "web-vitals": "^2.1.0"
   },
   "scripts": {
-    "start": "node_modules/.bin/react-scripts start",
+    "start": "portfolio/node_modules/.bin/react-scripts start",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "build": "node_modules/.bin/react-scripts build",
-    "test": "node_modules/.bin/react-scripts test",
-    "eject": "node_modules/.bin/react-scripts eject"
+    "build": "portfolio/node_modules/.bin/react-scripts build",
+    "test": "portfolio/node_modules/.bin/react-scripts test",
+    "eject": "portfolio/node_modules/.bin/react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
@@ -37,8 +53,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "gh-pages": "^6.0.0"
   }
 }
